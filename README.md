@@ -73,15 +73,15 @@
    </a>
 
 <br>
-
+<!-- ### Hi there 👋 
 #### Github Stats ⚡
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+ <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Mudassir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DrDee3a12&count_private=true&show_icons=true&theme=ambient-gradient&hide_border=true&border_radius=4.8" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Zalan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrDee3a12&langs_count=8&layout=compact&theme=ambient-gradient&hide_border=true&border_radius=4.8" height="192px"/>
-  </a>
+  </a>-->
   <br>
   <br>
   <br>
