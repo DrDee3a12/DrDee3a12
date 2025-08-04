@@ -1,19 +1,3 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**Rana-Mudassir/Rana-Mudassir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hi , I'm Zalan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -22,11 +6,11 @@ Here are some ideas to get you started:
 
 ## About Me
 <br><br>
-- Currently, I am looking new Role.
-- Recently I completed the Microverse Full-Stack Development Program.
-- I studied BSCS from National Textile University, Faisalabad, Pakistan
-- I have done an Internship in Node.js from VisionX Technologies, Islamabad
-- I have Full Stack experience with React.js, Node.js, Ruby, Ruby on Rails, Express.js, MongoDB, and PostgreSQL
+- Currently, I am open to new opportunities.
+- 🔧 Self-taught full-stack developer with a deep love for Linux, code, and control.
+- 👨‍💻 Currently studying Cybersecurity and building personal tools to automate, secure, and optimize systems.
+- 🧠 Exploring everything from web app development to ethical hacking and system internals.
+- 🖥️ Daily driver: a custom-built Arch Linux setup with Hyprland
 
 
 ## Connect With Me :blush:
