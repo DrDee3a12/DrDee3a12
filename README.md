@@ -5,7 +5,7 @@
 
 
 ## About Me
-<br>
+<br><br>
 - Currently, I am open to new opportunities.
 - 🔧 Self-taught full-stack developer with a deep love for Linux, code, and control.
 - 👨‍💻 Currently studying Cybersecurity and building personal tools to automate, secure, and optimize systems.
