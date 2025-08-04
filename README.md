@@ -5,7 +5,7 @@
 
 
 ## About Me
-<br><br>
+<br>
 - Currently, I am open to new opportunities.
 - 🔧 Self-taught full-stack developer with a deep love for Linux, code, and control.
 - 👨‍💻 Currently studying Cybersecurity and building personal tools to automate, secure, and optimize systems.
@@ -82,8 +82,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Zalan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrDee3a12&langs_count=8&layout=compact&theme=ambient-gradient&hide_border=true&border_radius=4.8" height="192px"/>
   </a>-->
-  <br>
-  <br>
+ 
   <br>
 
 
