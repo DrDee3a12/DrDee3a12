@@ -6,7 +6,7 @@
 
 - 👨‍💻 AI Agent & Automation Engineer — building smart systems with **n8n, Node.js, APIs, and custom logic**  
 - 🤖 Developing **AI-driven workflows and chat applications** that save time and unlock new possibilities  
-- 🔐 Background in **Cybersecurity** — I care about building systems that are not only efficient but also secure  
+- 🔐 Background in **Cybersecurity** — building systems that are not only efficient but also secure  
 - 🖥️ Daily driver: a custom **Arch Linux** setup with Hyprland  
 - 🌱 Always learning, building, breaking, and fixing to go deeper  
 - 🌐 Website: [ZalanLykos.github.io](https://ZalanLykos.github.io)  
